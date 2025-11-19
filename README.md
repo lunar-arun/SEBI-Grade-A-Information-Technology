@@ -4,17 +4,17 @@
 
 ## 🧩 Phase I
 
-| Sr. No. | Topic | Details | Weightage* |
+| Sr. No. | Topic | Details | Weightage*/No. Questions |
 |----------|--------|----------|-------------|
-| 1 | **Database Concepts** | ER-model, Relational model: relational algebra, tuple calculus, integrity constraints, normal forms. File organization, indexing (e.g., B and B+ trees), transactions, and concurrency control. | 10 |
-| 2 | **SQL Queries** | Select, view, truncate, delete, update, alter, inner join, different types of outer joins, use of aggregate functions, UNION, INTERSECTION, EXCEPT, IN and EXISTS clauses, nested queries. | 10 |
-| 3 | **Programming Concepts (Java / C / C++)** | Program control (iteration, recursion, functions), scope of variables, binding of variables & functions, parameter passing, functional and logic programming, OOP concepts, inheritance, class and object, constructors, functions, exception handling. | 30 |
-| 4 | **Data Analytics Languages (Python / R)** | Regex, slicing, data reshaping, dataframes, dictionaries and sets, file management, classes and functions, data mining, lists, importing and exporting data, charts and graphs. | 10 |
-| 5 | **Algorithms for Problem Solving** | Tree and graph traversals, connected components, spanning trees, shortest paths, hashing, sorting, searching, design techniques (greedy, dynamic programming, divide-and-conquer). | 10 |
-| 6 | **Networking Concepts** | ISO/OSI stack, LAN technologies (Ethernet, Token Ring), TCP/UDP, IP, basic concepts of switches, gateways, and routers, application layer protocols (DNS, SMTP, POP, FTP, HTTP), firewalls. | 10 |
-| 7 | **Information & Cyber Security Concepts** | Cyber attacks, software development security, network security, authentication, CIA (Confidentiality, Integrity, Availability), network audit, systems audit. | 10 |
-| 8 | **Data Warehousing** | Data extraction, data cleaning, data transformation, data loading, metadata, data cube, data mart, data models. | 5 |
-| 9 | **Shell Programming** | Shell scripting basics, shell variables, shell script arguments, if statement, loops, return, basic UNIX commands. | 5 |
+| 1 | **Database Concepts** | ER-model, Relational model: relational algebra, tuple calculus, integrity constraints, normal forms. File organization, indexing (e.g., B and B+ trees), transactions, and concurrency control. | 10-(5) |
+| 2 | **SQL Queries** | Select, view, truncate, delete, update, alter, inner join, different types of outer joins, use of aggregate functions, UNION, INTERSECTION, EXCEPT, IN and EXISTS clauses, nested queries. | 10-(5) |
+| 3 | **Programming Concepts (Java / C / C++)** | Program control (iteration, recursion, functions), scope of variables, binding of variables & functions, parameter passing, functional and logic programming, OOP concepts, inheritance, class and object, constructors, functions, exception handling. | 30-(15) |
+| 4 | **Data Analytics Languages (Python / R)** | Regex, slicing, data reshaping, dataframes, dictionaries and sets, file management, classes and functions, data mining, lists, importing and exporting data, charts and graphs. | 10-(5) |
+| 5 | **Algorithms for Problem Solving** | Tree and graph traversals, connected components, spanning trees, shortest paths, hashing, sorting, searching, design techniques (greedy, dynamic programming, divide-and-conquer). | 10-(5) |
+| 6 | **Networking Concepts** | ISO/OSI stack, LAN technologies (Ethernet, Token Ring), TCP/UDP, IP, basic concepts of switches, gateways, and routers, application layer protocols (DNS, SMTP, POP, FTP, HTTP), firewalls. | 10-(5) |
+| 7 | **Information & Cyber Security Concepts** | Cyber attacks, software development security, network security, authentication, CIA (Confidentiality, Integrity, Availability), network audit, systems audit. | 10-(5) |
+| 8 | **Data Warehousing** | Data extraction, data cleaning, data transformation, data loading, metadata, data cube, data mart, data models. | 5-(2/3) |
+| 9 | **Shell Programming** | Shell scripting basics, shell variables, shell script arguments, if statement, loops, return, basic UNIX commands. | 5-(2/3) |
 
 **Total Weightage:** 100  
 *Weightages are indicative only.*
