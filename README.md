@@ -25,9 +25,9 @@
 
 | Done | S.No. | Topic                           | Concepts                                                                           | Weightage* |
 | ---- | ----- | ------------------------------- | ---------------------------------------------------------------------------------- | ---------- |
-| ☐    | 1     | **Algorithms**                  | Sorting, searching, greedy, DP, backtracking, divide & conquer, pattern searching. | 30         |
-| ☐    | 2     | **Data Structures**             | Array, linked list, stack, queue, binary tree, BST, heap, hashing, matrix, JSON.   | 40         |
-| ☐    | 3     | **String Manipulation**         | Length, substring, regex, search.                                                  | 10         |
+| ✔    | 1     | **Algorithms**                  | Sorting, searching, greedy, DP, backtracking, divide & conquer, pattern searching. | 30         |
+| ✔    | 2     | **Data Structures**             | Array, linked list, stack, queue, binary tree, BST, heap, hashing, matrix, JSON.   | 40         |
+| ✔    | 3     | **String Manipulation**         | Length, substring, regex, search.                                                  | 10         |
 | ✔    | 4     | **Object-Oriented Programming** | Abstraction, encapsulation, polymorphism, inheritance.                             | 20         |
 
 ---
@@ -35,4 +35,3 @@
 📄 *End of Syllabus*
 
 ---
-
