@@ -16,8 +16,8 @@
 | ✔    | 5       | **Algorithms for Problem Solving**        | Tree/graph traversal, spanning trees, shortest paths, hashing, sorting, searching, greedy, DP, divide-and-conquer.                      | 10-(5)                   |
 | ✔    | 6       | **Networking Concepts**                   | OSI, LAN, TCP/UDP, IP, switches/routers, DNS, SMTP, POP, FTP, HTTP, firewalls.                                                          | 10-(5)                   |
 | ✔    | 7       | **Information & Cyber Security Concepts** | Cyber attacks, software security, network security, authentication, CIA triad, audits.                                                  | 10-(5)                   |
-| ✔    | 8       | **Data Warehousing**                      | ETL, metadata, data cube, data mart, data models.                                                                                       | 5-(2/3)                  |
-| ✔    | 9       | **Shell Programming**                     | Shell basics, variables, arguments, if/loops, return, UNIX commands.                                                                    | 5-(2/3)                  |
+| ✔    | 8       | **Data Warehousing**                      | ETL, metadata, data cube, data mart, data models.                                                                                       | 5-(2//3)                  |
+| ✔    | 9       | **Shell Programming**                     | Shell basics, variables, arguments, if/loops, return, UNIX commands.                                                                    | 5-(2//3)                  |
 
 ---
 
@@ -35,4 +35,5 @@
 📄 *End of Syllabus*
 
 ---
+
 
