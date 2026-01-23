@@ -20,6 +20,7 @@
 | ✔    | 9       | **Shell Programming**                     | Shell basics, variables, arguments, if/loops, return, UNIX commands.                                                                    | 5-(2/3)                  |
 
 ---
+---
 
 ## 💻 Phase II
 
@@ -35,6 +36,7 @@
 📄 *End of Syllabus*
 
 ---
+
 
 
 
